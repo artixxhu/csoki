@@ -90,3 +90,35 @@ span
     user-select: none;
     touch-action: manipulation;
 }
+
+#tortenetesosszetetel{
+    position: relative;
+}
+
+footer{
+    text-align: center;
+    font-size: 30px;
+    margin: 15px;
+}
+
+#csokifa{
+    max-height: 200px;
+    max-width: 200px;
+    margin: 0;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    float: left;
+}
+
+h1{
+    font-size: 180%;
+    text-transform: uppercase;
+    text-align: right;
+    padding-bottom: 2px;
+    border-bottom: 2px dotted rgb(59, 36, 13);
+}
+
+.bevezeto{
+    text-align: justify;
+    font-style: italic;
+}
